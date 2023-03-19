@@ -64,7 +64,7 @@ form {
 }
 
 .search-form {
-  background-color: rgb(63 86 177);
+  background-color: rgb(63, 177, 175);
   position: fixed;
   top: 0;
   left: 0;
@@ -100,7 +100,7 @@ button {
   height: 30px;
 
   font-size: 16px;
-  background: rgb(216, 231, 47);
+  background: rgb(133, 199, 209);
   border: none;
   position: relative;
   color: black;
